@@ -1,0 +1,161 @@
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\timsoft.exe
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\timsoft.deps.json
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\timsoft.runtimeconfig.json
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\timsoft.dll
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\timsoft.pdb
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.timsoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.build.timsoft.props
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.timsoft.props
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.timsoft.props
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\scopedcss\bundle\timsoft.styles.css
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.dll
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\refint\timsoft.dll
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.pdb
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\timsoft.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\stage\timsoft\timsoft\obj\Debug\net6.0\ref\timsoft.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\timsoft.exe
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\timsoft.deps.json
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\timsoft.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\timsoft.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\timsoft.pdb
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.timsoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.build.timsoft.props
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.timsoft.props
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.timsoft.props
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\scopedcss\bundle\timsoft.styles.css
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\refint\timsoft.dll
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.pdb
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\timsoft.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Stage2\timsoft\obj\Debug\net6.0\ref\timsoft.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.csproj.AssemblyReference.cache
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.AssemblyInfoInputs.cache
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.AssemblyInfo.cs
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.csproj.CoreCompileInputs.cache
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\refint\timsoft.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.pdb
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\appsettings.json
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\timsoft.exe
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\timsoft.deps.json
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\timsoft.runtimeconfig.json
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\timsoft.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\timsoft.pdb
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Npgsql.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.timsoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.build.timsoft.props
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.timsoft.props
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.timsoft.props
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\scopedcss\bundle\timsoft.styles.css
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.csproj.CopyComplete
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\timsoft.genruntimeconfig.cache
+C:\Users\DADO MAZHOUD\Desktop\STAGE\timsoft\obj\Debug\net6.0\ref\timsoft.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\appsettings.json
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\timsoft.exe
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\timsoft.deps.json
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\timsoft.runtimeconfig.json
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\timsoft.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\timsoft.pdb
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Npgsql.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.csproj.AssemblyReference.cache
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.AssemblyInfoInputs.cache
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.AssemblyInfo.cs
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.csproj.CoreCompileInputs.cache
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.timsoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.build.timsoft.props
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.timsoft.props
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.timsoft.props
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\scopedcss\bundle\timsoft.styles.css
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.csproj.CopyComplete
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\refint\timsoft.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.pdb
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\timsoft.genruntimeconfig.cache
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\obj\Debug\net6.0\ref\timsoft.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Scrutor.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\HoussemABASSI\OneDrive - Timsoft Group\Bureau\Timsoft_-master\Timsoft_-master\timsoft\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\DataBase",
+    "\\entities",
+    "\\Properties",
+    "\\repositories",
+    "\\services"
+  ],
+  "PreviewInSolutionExplorer": false
+}
